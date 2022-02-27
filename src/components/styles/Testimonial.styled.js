@@ -2,13 +2,13 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   background-image: url(${(props) => props.bgImage});
-  background-size: 170px 170px;
+  background-size: 130px 150px;
   background-repeat: no-repeat;
-  background-position: top right 30px;
+  background-position: top right 90px;
   background-color: ${(props) => props.bgColor};
   color: ${(props) => props.color};
-  line-height: 1.3;
-  padding: 3em 4em 3em 3em;
+  font-size: 13px;
+  padding: 3em;
   border-radius: 10px;
   margin-bottom: 2em;
   grid-column: ${(props) => props.gridCol};

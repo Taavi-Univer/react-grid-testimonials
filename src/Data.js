@@ -4,29 +4,27 @@ const Data = [
     name: "Danil Clifford",
     verified: "Verified Graduate",
     text:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure! Vel aperiam minus ratione porro rem nesciunt, vero quia excepturi, voluptatem nihil quibusdam ipsum!",
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure! Vel aperiam minus ratione porro rem nesciunt ipsum!",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque, consequuntur nulla cum temporibus! Explicabo nihil ab reiciendis minima dolor repudiandae suscipit tempora.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque, consequuntur nulla cum temporibus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque, consequuntur nulla cum temporibus!",
   },
 
   {
     img: "images/image-jonathan.jpg",
     name: "Jonathan Walters",
     verified: "Verified Graduate",
-    text:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure!",
+    text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum.",
   },
 
   {
     img: "images/image-jeanette.jpg",
     name: "Jeanette Harmon",
     verified: "Verified Graduate",
-    text:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure!",
+    text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums.",
   },
   {
     img: "images/image-kira.jpg",
@@ -35,7 +33,7 @@ const Data = [
     text:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure!",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque.",
   },
   {
     img: "images/image-patrick.jpg",
@@ -44,7 +42,7 @@ const Data = [
     text:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure!",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque.",
   },
 ];
 
