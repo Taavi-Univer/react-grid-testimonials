@@ -1,7 +1,7 @@
 const Data = [
   {
     img: "images/image-daniel.jpg",
-    name: "Daniel Clifford",
+    name: "Danil Clifford",
     verified: "Verified Graduate",
     text:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure! Vel aperiam minus ratione porro rem nesciunt, vero quia excepturi, voluptatem nihil quibusdam ipsum!",
