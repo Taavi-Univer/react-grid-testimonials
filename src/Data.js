@@ -6,7 +6,7 @@ const Data = [
     text:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure! Vel aperiam minus ratione porro rem nesciunt ipsum!",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque, consequuntur nulla cum temporibus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque, consequuntur nulla cum temporibus!",
+      "Lorem, ipsum lorem dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque, consequuntur nulla cum temporibus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque, consequuntur nulla cum temporibus!",
   },
 
   {
