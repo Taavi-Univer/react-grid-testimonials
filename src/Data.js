@@ -24,7 +24,7 @@ const Data = [
     verified: "Verified Graduate",
     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cums.",
   },
   {
     img: "images/image-kira.jpg",
@@ -33,7 +33,7 @@ const Data = [
     text:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum minima cum corporis, ab neque voluptate iure!",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis! In esse iste, totam aliquid consequatur deserunt eos eveniet obcaecati laboriosam animi sed inventore perferendis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis. Assumenda nulla, at ipsum dolore dicta mollitia cum, rerum quibusdam in delectus omnis.",
   },
   {
     img: "images/image-patrick.jpg",

@@ -1,12 +1,12 @@
 import React from "react";
 
+import { ThemeProvider } from "styled-components";
+
 import GlobalStyles from "./components/styles/Global";
 import { Container } from "./components/styles/App.styled";
-
 import Testimonial from "./components/Testimonial";
-import Data from "./Data";
 
-import { ThemeProvider } from "styled-components";
+import Data from "./Data";
 
 const theme = {
   colors: {
